@@ -15,7 +15,7 @@ elif (imc<=18.4):
 elif (imc<=24.99):
     print('Você está no seu peso ideal. Continue assim!!!')
 elif (imc<=29.99):
-    print('Você está acima do peso seu ideal. Melhore sua dieta e faça exercícios físicos!')
+    print('Você está acima do seu peso ideal. Melhore sua dieta e faça exercícios físicos!')
 elif (imc<=34.99):
     print('Você está obeso nível 1. Procure um médico e um nutricionista !!!')
 elif (imc<=39.99):
