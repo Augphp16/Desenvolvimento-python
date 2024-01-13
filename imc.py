@@ -17,8 +17,8 @@ elif (imc<=24.99):
 elif (imc<=29.99):
     print('Você está acima do peso ideal. Melhore sua dieta e faça exercícios físicos!')
 elif (imc<=34.99):
-    print('Você está obeso grau 1. Procure um médico e um nutricionista !!!')
+    print('Você está obeso nível 1. Procure um médico e um nutricionista !!!')
 elif (imc<=39.99):
-    print('Você está obeso grau 2. Procure um médico e um nutricionista urgentemente!!!')
+    print('Você está obeso nível 2. Procure um médico e um nutricionista urgentemente!!!')
 elif (imc>=40):
-    print('Você está obeso grau 3. Procure um médico e um nutricionista urgentemente!!!')
+    print('Você está obeso nível 3. Procure um médico e um nutricionista urgentemente!!!')
